@@ -10,7 +10,7 @@ This coin is used to buy sitars (RichG, the lead dev, has no sitars, so do not P
 Blocks
 ======
 
-There are approx. 16.7 million blocks. The blocks are 15 seconds apart, and there are 1.25 coins per block. The coins will be mineable for 2 years (I said this was for fun).
+There are approx. 16.7 million blocks. The blocks are 15 seconds apart, and there are 1.25 coins per block. The coins will be mineable for 2 years (I said this was for fun). It has a coin production rate similar to Bitcoin, with 21000000 coins, and 50 coins every ten minutes.
 
 Ports
 =====
